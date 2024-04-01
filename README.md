@@ -30,7 +30,7 @@ This script downloads a YouTube video, processes its frames, performs OCR (Optic
     python -m youtube_ocr.ocr <youtube_link> <output_pptx> <similarity_percentage>
     ```
 
-    Replace `<youtube_link>` with the link to the YouTube video you want to process, and `<output_pptx>` with the desired filename for the output PowerPoint presentation.
+    Replace `<youtube_link>` with the link to the YouTube video you want to process, `<output_pptx>` with the desired filename for the output PowerPoint presentation and <similarity_percentage> is percentage of similarity that you want ignore two adjacent video frames to add to the slides( low value will add more slides and high value will add less slides) .
 
     For example:
 
