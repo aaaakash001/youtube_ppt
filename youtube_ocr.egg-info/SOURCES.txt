@@ -1,0 +1,9 @@
+setup.py
+youtube_ocr/ocr.py
+youtube_ocr/utils.py
+youtube_ocr.egg-info/PKG-INFO
+youtube_ocr.egg-info/SOURCES.txt
+youtube_ocr.egg-info/dependency_links.txt
+youtube_ocr.egg-info/entry_points.txt
+youtube_ocr.egg-info/requires.txt
+youtube_ocr.egg-info/top_level.txt

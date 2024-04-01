@@ -1,0 +1,2 @@
+[console_scripts]
+youtube-ocr = youtube_ocr.ocr:main
