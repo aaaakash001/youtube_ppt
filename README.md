@@ -1,4 +1,4 @@
-# YouTube OCR to PowerPoint
+# YouTube video to PowerPoint
 
 This script downloads a YouTube video, processes its frames, performs OCR (Optical Character Recognition) on each frame, and generates a PowerPoint presentation containing the extracted text and corresponding frames.
 
